@@ -1,4 +1,4 @@
-# Wine Type Classification
+# MovieLens Analysis
 HarvardX  |  PH125.9x  |  Capstone pt. 1 - MovieLens
 
 Inspired by the Netﬂix Challenge, the goal of this project was to build a predictive model for movie ratings based on a dataset provided by GroupLens - a research lab from the University of Minnesoa. The data set includes 10M+ movie ratings, spanning more than 60,000 users and 10,000 movies.
